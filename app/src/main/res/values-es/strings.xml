@@ -1,5 +1,4 @@
 <resources>
 	<string name="app_name" translatable="false">I18N</string>
-
-	<string name="hello_world">Hello World!</string>
+	<string name="hello_world">¡Hola Mundo!</string>
 </resources>
